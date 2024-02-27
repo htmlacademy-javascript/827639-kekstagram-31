@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [София Ююкина](https://up.htmlacademy.ru/javascript/31/user/827639).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Сигов] (https://htmlacademy.ru/profile/crazer).
 
 ---
 
