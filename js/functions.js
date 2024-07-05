@@ -14,7 +14,7 @@ function checkPalindrom(string) {
   normalizeString = normalizeString.toUpperCase();
   let newString = '';
 
-  for (i = normalizeString.length - 1; i >= 0; i = i-1) {
+  for (let i = normalizeString.length - 1; i >= 0; i = i - 1) {
     newString += normalizeString[i];
   }
 
@@ -28,7 +28,7 @@ function checkPalindrom(string) {
 function returnNumbers(string) {
   let number = '';
 
-  for (i = 0; i <= string.length - 1; i++) {
+  for (let i = 0; i <= string.length - 1; i++) {
     if (Number.isNaN(parseInt(string[i])) === false) {
       number += string[i];
     }
