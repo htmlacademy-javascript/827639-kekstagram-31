@@ -1,3 +1,1 @@
-import {createUsers} from './data.js'
-
-console.log(createUsers());
+import './render-random-user';
